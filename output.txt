@@ -1,0 +1,2 @@
+Repeated headers. Level: 1, text: "Level 1"
+Repeated headers. Level: 4, text: "Level 4"
